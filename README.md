@@ -7,7 +7,7 @@ Landing page do Método Bíblia Memorizada para [digitalavello.shop](https://dig
 1. Crie uma conta no [Netlify](https://netlify.com) (se ainda não tiver).
 2. Faça **push** deste repositório para o GitHub.
 3. No Netlify: **Add new site** → **Import an existing project** → **GitHub**.
-4. Conecte o repositório `biblia-memorizada`.
+4. Conecte o repositório biblia-memorizada``.
 5. Configuração automática (já definida no `netlify.toml`):
    - **Build command:** deixe vazio (site estático)
    - **Publish directory:** `.` (raiz)
